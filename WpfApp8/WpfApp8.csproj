@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64C87C70-5D71-4B8F-AB07-76B98DB3BDED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WpfApp8</RootNamespace>
+    <AssemblyName>WpfApp8</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.4.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.4.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.4.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.4.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.4.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.4.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.4.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.4.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.DataGrid, Version=3.4.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.4.0\lib\net40\Xceed.Wpf.DataGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=3.4.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.4.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Helpers\AutoClosingMessageBox.cs" />
+    <Compile Include="Helpers\StringToBoolean.cs" />
+    <Compile Include="Installer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Installer.Designer.cs">
+      <DependentUpon>Installer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Annee.cs" />
+    <Compile Include="Model\Carburant.cs" />
+    <Compile Include="Model\Categorie.cs" />
+    <Compile Include="Model\Couleur.cs" />
+    <Compile Include="Model\Modele.cs" />
+    <Compile Include="Model\Options.cs" />
+    <Compile Include="Model\Places.cs" />
+    <Compile Include="Model\Puissance.cs" />
+    <Compile Include="Model\Transmission.cs" />
+    <Compile Include="View\Connexion.xaml.cs">
+      <DependentUpon>Connexion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Modifier.xaml.cs">
+      <DependentUpon>Modifier.xaml</DependentUpon>
+    </Compile>
+    <Page Include="View\Ajouter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="View\Connexion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Model\Services.cs" />
+    <Compile Include="ViewModel\AjouterViewModel.cs" />
+    <Compile Include="Helpers\Helpers.cs" />
+    <Compile Include="ViewModel\MainWindowViewModel.cs" />
+    <Compile Include="View\Ajouter.xaml.cs">
+      <DependentUpon>Ajouter.xaml</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="View\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="View\Modifier.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\logoappli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\2008_blanc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\2008_rouge.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\2008_vert.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208Business_blanc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208Business_gris.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208Business_noir.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208GTI_blanc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208GTI_noir.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208GTI_rouge.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208_blanc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208_bleu.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\208_gris.JPG">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\3008_blanc.jpg" />
+    <Resource Include="Images\3008_bleu.jpg" />
+    <Resource Include="Images\3008_vert.jpg" />
+    <Resource Include="Images\308GTI_blanc.jpg" />
+    <Resource Include="Images\308GTI_bleu.jpg" />
+    <Resource Include="Images\308GTI_rouge.jpg" />
+    <Resource Include="Images\308_blanc.jpg" />
+    <Resource Include="Images\308_bleu.jpg" />
+    <Resource Include="Images\308_gris.jpg" />
+    <Resource Include="Images\5008_blanc.jpg" />
+    <Resource Include="Images\5008_bleu.jpg" />
+    <Resource Include="Images\5008_jaune.jpg" />
+    <Resource Include="Images\508Business_blanc.jpg" />
+    <Resource Include="Images\508Business_gris.jpg" />
+    <Resource Include="Images\508Business_noir.jpg" />
+    <Resource Include="Images\508_blanc.jpg" />
+    <Resource Include="Images\508_bleu.jpg" />
+    <Resource Include="Images\508_gris.jpg" />
+    <Resource Include="Images\A3_jaune.png" />
+    <Resource Include="Images\A3_marron.jpg" />
+    <Resource Include="Images\A3_rouge.jpg" />
+    <Resource Include="Images\A45_blanc.jpg" />
+    <Resource Include="Images\A45_bleu.jpg" />
+    <Resource Include="Images\A45_rouge.jpg" />
+    <Resource Include="Images\A5_blanc.jpg" />
+    <Resource Include="Images\A5_noir.jpg" />
+    <Resource Include="Images\A5_rouge.jpg" />
+    <Resource Include="Images\A7_blanc.jpg" />
+    <Resource Include="Images\A7_bleu.jpg" />
+    <Resource Include="Images\A7_gris.jpg" />
+    <Resource Include="Images\Alaskan_blanc.jpg" />
+    <Resource Include="Images\Alaskan_gris.jpg" />
+    <Resource Include="Images\Alaskan_marron.jpg" />
+    <Resource Include="Images\AMGroadster_blanc.jpg" />
+    <Resource Include="Images\AMGroadster_gris.jpg" />
+    <Resource Include="Images\AMGroadster_jaune.jpg" />
+    <Resource Include="Images\Arteon_blanc.jpg" />
+    <Resource Include="Images\Arteon_jaune.jpg" />
+    <Resource Include="Images\Arteon_noir.jpg" />
+    <Resource Include="Images\Auris_blanc.jpg" />
+    <Resource Include="Images\Auris_bleu.jpg" />
+    <Resource Include="Images\Auris_rouge.jpg" />
+    <Resource Include="Images\Avensis_blanc.jpg" />
+    <Resource Include="Images\Avensis_gris.jpg" />
+    <Resource Include="Images\Avensis_rouge.jpg" />
+    <Resource Include="Images\Aygo_blanc.jpg" />
+    <Resource Include="Images\Aygo_noir.jpg" />
+    <Resource Include="Images\Aygo_rouge.jpg" />
+    <Resource Include="Images\C-Zero_blanc.jpg" />
+    <Resource Include="Images\C-Zero_bleu.jpg" />
+    <Resource Include="Images\C-Zero_noir.jpg" />
+    <Resource Include="Images\C1_blanc.jpg" />
+    <Resource Include="Images\C1_bleu.jpg" />
+    <Resource Include="Images\C1_rouge.jpg" />
+    <Resource Include="Images\C3Aircross_blanc.jpg" />
+    <Resource Include="Images\C3Aircross_bleu.jpg" />
+    <Resource Include="Images\C3Aircross_gris.jpg" />
+    <Resource Include="Images\C3_blanc.jpg" />
+    <Resource Include="Images\C3_bleu.jpg" />
+    <Resource Include="Images\C3_rouge.jpg" />
+    <Resource Include="Images\C4cactus_blanc.jpg" />
+    <Resource Include="Images\C4Cactus_bleu.jpg" />
+    <Resource Include="Images\C4cactus_vert.jpg" />
+    <Resource Include="Images\C4Picasso_blanc.jpg" />
+    <Resource Include="Images\C4Picasso_bleu.jpg" />
+    <Resource Include="Images\C4Picasso_rouge.jpg" />
+    <Resource Include="Images\C4_blanc.jpg" />
+    <Resource Include="Images\C4_gris.jpg" />
+    <Resource Include="Images\C4_rouge.jpg" />
+    <Resource Include="Images\C5Aircross_blanc.jpg" />
+    <Resource Include="Images\C5Aircross_gris.jpg" />
+    <Resource Include="Images\C5Aircross_rouge.jpg" />
+    <Resource Include="Images\C5_blanc.jpg" />
+    <Resource Include="Images\C5_gris.jpeg" />
+    <Resource Include="Images\C5_gris.jpg" />
+    <Resource Include="Images\Captur_blanc.jpg" />
+    <Resource Include="Images\Captur_gris.jpg" />
+    <Resource Include="Images\Captur_rouge.jpg" />
+    <Resource Include="Images\ClasseB_blanc.png" />
+    <Resource Include="Images\ClasseB_gris.jpg" />
+    <Resource Include="Images\ClasseB_noir.jpg" />
+    <Resource Include="Images\ClasseE_blanc.jpg" />
+    <Resource Include="Images\ClasseE_gris.jpg" />
+    <Resource Include="Images\ClasseE_rouge.jpg" />
+    <Resource Include="Images\ClasseScoupe_blanc.jpg" />
+    <Resource Include="Images\ClasseScoupe_gris.jpg" />
+    <Resource Include="Images\ClasseScoupe_noir.jpg" />
+    <Resource Include="Images\ClasseS_blanc.jpg" />
+    <Resource Include="Images\ClasseS_gris.jpg" />
+    <Resource Include="Images\classeS_noir.jpg" />
+    <Resource Include="Images\ClioRS_blanc.jpg" />
+    <Resource Include="Images\ClioRS_jaune.jpg" />
+    <Resource Include="Images\ClioRS_rouge.jpg" />
+    <Resource Include="Images\CoccinelleCab_blanc.jpg" />
+    <Resource Include="Images\CoccinelleCab_marron.jpg" />
+    <Resource Include="Images\CoccinelleCab_vert.jpg" />
+    <Resource Include="Images\DS3Cab_blanc.jpg" />
+    <Resource Include="Images\DS3Cab_bleu.jpg" />
+    <Resource Include="Images\DS3Cab_gris.jpg" />
+    <Resource Include="Images\DS3_blanc.jpg" />
+    <Resource Include="Images\DS3_gris.jpg" />
+    <Resource Include="Images\DS3_noir.jpg" />
+    <Resource Include="Images\DS4Crossback_blanc.jpg" />
+    <Resource Include="Images\DS4Crossback_gris.jpg" />
+    <Resource Include="Images\DS4Crossback_rouge.jpg" />
+    <Resource Include="Images\DS4_blanc.jpg" />
+    <Resource Include="Images\DS4_noir.jpeg" />
+    <Resource Include="Images\DS4_rouge.jpg" />
+    <Resource Include="Images\DS5_blanc.jpg" />
+    <Resource Include="Images\DS5_bleu.jpg" />
+    <Resource Include="Images\DS5_gris.jpg" />
+    <Resource Include="Images\DS7Crossback_bleu.jpeg" />
+    <Resource Include="Images\DS7Crossback_gris.jpg" />
+    <Resource Include="Images\DS7Crossback_jaune.jpg" />
+    <Resource Include="Images\E-Mehari_bleu.jpg" />
+    <Resource Include="Images\E-Mehari_jaune.jpg" />
+    <Resource Include="Images\E-Mehari_rouge.jpg" />
+    <Resource Include="Images\E-UP_blanc.jpg" />
+    <Resource Include="Images\E-UP_bleu.jpg" />
+    <Resource Include="Images\E-UP_jaune.jpg" />
+    <Resource Include="Images\GLA_blanc.jpg" />
+    <Resource Include="Images\GLA_gris.jpeg" />
+    <Resource Include="Images\GLA_rouge.jpg" />
+    <Resource Include="Images\GlcCoupe_bleu.jpg" />
+    <Resource Include="Images\GlcCoupe_marron.jpg" />
+    <Resource Include="Images\GlcCoupe_noir.jpg" />
+    <Resource Include="Images\GLC_blanc.png" />
+    <Resource Include="Images\GLC_bleu.jpg" />
+    <Resource Include="Images\GLC_gris.jpg" />
+    <Resource Include="Images\GleAMG_bleu.jpg" />
+    <Resource Include="Images\GleAMG_gris.jpg" />
+    <Resource Include="Images\GleAMG_rouge.jpg" />
+    <Resource Include="Images\Golf7Gti_blanc.jpg" />
+    <Resource Include="Images\Golf7Gti_noir.jpg" />
+    <Resource Include="Images\Golf7Gti_rouge.jpg" />
+    <Resource Include="Images\GolfGTE_blanc.jpg" />
+    <Resource Include="Images\GolfGTE_bleu.jpg" />
+    <Resource Include="Images\GolfGTE_gris.jpg" />
+    <Resource Include="Images\GolfR_blanc.jpg" />
+    <Resource Include="Images\GolfR_bleu.jpg" />
+    <Resource Include="Images\GolfR_gris.jpg" />
+    <Resource Include="Images\GT86_blanc.jpg" />
+    <Resource Include="Images\GT86_bleu.jpg" />
+    <Resource Include="Images\GT86_rouge.jpg" />
+    <Resource Include="Images\Hilux_blanc.jpg" />
+    <Resource Include="Images\Hilux_bleu.jpg" />
+    <Resource Include="Images\Hilux_rouge.jpg" />
+    <Resource Include="Images\I8_blanc.jpg" />
+    <Resource Include="Images\I8_bleu.jpg" />
+    <Resource Include="Images\I8_noir.jpg" />
+    <Resource Include="Images\Kadjar_marron.png" />
+    <Resource Include="Images\Kadjar_noir.jpg" />
+    <Resource Include="Images\Kadjar_rouge.jpg" />
+    <Resource Include="Images\Koleos_blanc.jpg" />
+    <Resource Include="Images\Koleos_bleu.jpg" />
+    <Resource Include="Images\Koleos_noir.jpg" />
+    <Resource Include="Images\LandCruiser_blanc.jpg" />
+    <Resource Include="Images\LandCruiser_bleu.jpg" />
+    <Resource Include="Images\LandCruiser_noir.jpg" />
+    <Resource Include="Images\M3_blanc.jpg" />
+    <Resource Include="Images\M3_bleu.jpg" />
+    <Resource Include="Images\M3_jaune.jpg" />
+    <Resource Include="Images\M4_jaune.jpg" />
+    <Resource Include="Images\M4_marron.jpg" />
+    <Resource Include="Images\M4_vert.jpg" />
+    <Resource Include="Images\M6_blanc.jpg" />
+    <Resource Include="Images\M6_jaune.jpg" />
+    <Resource Include="Images\M6_noir.jpg" />
+    <Resource Include="Images\MeganeRS_blanc.jpg" />
+    <Resource Include="Images\MeganeRS_gris.jpg" />
+    <Resource Include="Images\MeganeRS_jaune.jpg" />
+    <Resource Include="Images\Mirai_blanc.jpg" />
+    <Resource Include="Images\Mirai_bleu.jpg" />
+    <Resource Include="Images\Mirai_gris.jpg" />
+    <Resource Include="Images\Model3_blanc.jpg" />
+    <Resource Include="Images\Model3_gris.jpg" />
+    <Resource Include="Images\Model3_rouge.jpg" />
+    <Resource Include="Images\ModelS_gris.jpg" />
+    <Resource Include="Images\ModelS_noir.jpg" />
+    <Resource Include="Images\ModelS_rouge.jpg" />
+    <Resource Include="Images\ModelX_blanc.jpg" />
+    <Resource Include="Images\ModelX_bleu.jpg" />
+    <Resource Include="Images\ModelX_gris.jpg" />
+    <Resource Include="Images\PassatGTE_blanc.jpg" />
+    <Resource Include="Images\PassatGTE_bleu.jpg" />
+    <Resource Include="Images\PassatGTE_noir.jpg" />
+    <Resource Include="Images\Prius_blanc.jpg" />
+    <Resource Include="Images\Prius_bleu.jpg" />
+    <Resource Include="Images\Prius_gris.jpg" />
+    <Resource Include="Images\R8_blanc.jpg" />
+    <Resource Include="Images\R8_jaune.jpg" />
+    <Resource Include="Images\R8_marron.jpg" />
+    <Resource Include="Images\R8_rouge.jpg" />
+    <Resource Include="Images\RAV4_blanc.jpg" />
+    <Resource Include="Images\RAV4_bleu.jpg" />
+    <Resource Include="Images\RAV4_noir.jpg" />
+    <Resource Include="Images\Roadster_bleu.jpg" />
+    <Resource Include="Images\Roadster_gris.jpg" />
+    <Resource Include="Images\Roadster_rouge.jpg" />
+    <Resource Include="Images\RS3_blanche.jpg" />
+    <Resource Include="Images\RS3_noir.jpg" />
+    <Resource Include="Images\RS3_rouge.jpg" />
+    <Resource Include="Images\RS6_blanc.jpg" />
+    <Resource Include="Images\RS6_jaune.jpg" />
+    <Resource Include="Images\RS6_noir.jpg" />
+    <Resource Include="Images\RSQ3_jaune.jpg" />
+    <Resource Include="Images\RSQ3_rouge.jpg" />
+    <Resource Include="Images\RSQ3_vert.jpg" />
+    <Resource Include="Images\S1_bleu.jpg" />
+    <Resource Include="Images\S1_gris.jpg" />
+    <Resource Include="Images\S1_jaune.jpg" />
+    <Resource Include="Images\S8_blanc.jpg" />
+    <Resource Include="Images\S8_gris.jpg" />
+    <Resource Include="Images\S8_noir.jpg" />
+    <Resource Include="Images\Scenic_blanc.jpg" />
+    <Resource Include="Images\Scenic_jaune.jpg" />
+    <Resource Include="Images\Scenic_noir.jpg" />
+    <Resource Include="Images\Serie1_bleu.jpg" />
+    <Resource Include="Images\Serie1_noir.jpg" />
+    <Resource Include="Images\Serie1_vert.jpg" />
+    <Resource Include="Images\Serie2cab_blanc.jpg" />
+    <Resource Include="Images\Serie2cab_bleu.jpg" />
+    <Resource Include="Images\Serie2cab_gris.jpg" />
+    <Resource Include="Images\Serie2_blanc.jpeg" />
+    <Resource Include="Images\Serie2_gris.jpg" />
+    <Resource Include="Images\Serie2_noir.jpg" />
+    <Resource Include="Images\Serie5_blanc.jpg" />
+    <Resource Include="Images\Serie5_gris.jpg" />
+    <Resource Include="Images\Serie5_noir.jpg" />
+    <Resource Include="Images\Serie7_blanc.jpg" />
+    <Resource Include="Images\Serie7_marron.jpg" />
+    <Resource Include="Images\Serie7_noir.jpg" />
+    <Resource Include="Images\SQ7_blanc.jpg" />
+    <Resource Include="Images\SQ7_gris.jpg" />
+    <Resource Include="Images\SQ7_noir.jpg" />
+    <Resource Include="Images\Talisman_gris.jpg" />
+    <Resource Include="Images\Talisman_marron.jpg" />
+    <Resource Include="Images\Talisman_noir.jpg" />
+    <Resource Include="Images\Tiguan_blanc.jpg" />
+    <Resource Include="Images\Tiguan_noir.jpg" />
+    <Resource Include="Images\Tiguan_rouge.jpg" />
+    <Resource Include="Images\Touareg_blanc.jpg" />
+    <Resource Include="Images\Touareg_bleu.jpg" />
+    <Resource Include="Images\Touareg_noir.jpg" />
+    <Resource Include="Images\Touran_blanc.jpg" />
+    <Resource Include="Images\Touran_bleu.jpg" />
+    <Resource Include="Images\Touran_noir.jpeg" />
+    <Resource Include="Images\Twingo_blanc.jpg" />
+    <Resource Include="Images\Twingo_bleu.jpg" />
+    <Resource Include="Images\Twingo_vert.jpg" />
+    <Resource Include="Images\X6_blanc.jpg" />
+    <Resource Include="Images\X6_marron.jpg" />
+    <Resource Include="Images\X6_rouge.jpg" />
+    <Resource Include="Images\Yaris_jaune.jpg" />
+    <Resource Include="Images\Yaris_noir.jpg" />
+    <Resource Include="Images\Yaris_rouge.jpg" />
+    <Resource Include="Images\ZOE_blanc.jpg" />
+    <Resource Include="Images\ZOE_bleu.jpg" />
+    <Resource Include="Images\ZOE_marron.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

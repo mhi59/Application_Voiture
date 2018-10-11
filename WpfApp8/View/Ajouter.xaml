@@ -1,0 +1,73 @@
+﻿<Window x:Class="WpfApp8.View.Ajouter"
+        x:Name="WindowAjouter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:osb="clr-namespace:Xceed.Wpf.Toolkit.Obselete;assembly=WPFToolkit.Extended"
+        xmlns:s="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="100Chauffeurs" Height="550" Width="700" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,0,-2" Visibility="Visible">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="109*"/>
+            <ColumnDefinition Width="583*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Marque" HorizontalAlignment="Left" Margin="26,79,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.094,0.087" Height="30"/>
+        <Label x:Name="label1" Content="Modèle" HorizontalAlignment="Left" Margin="28,144,0,0" VerticalAlignment="Top" Height="28"/>
+        <Label x:Name="label2" Content="Puissance" HorizontalAlignment="Left" Margin="16,209,0,0" VerticalAlignment="Top" Height="27"/>
+        <Label x:Name="label3" Content="Nb Places" HorizontalAlignment="Left" Margin="16,278,0,0" VerticalAlignment="Top" Height="23"/>
+        <Label x:Name="label4" Content="Couleur" HorizontalAlignment="Left" Margin="31,339,0,0" VerticalAlignment="Top" Height="23"/>
+        <Label x:Name="label5" Content="Carburant" HorizontalAlignment="Left" Margin="16,407,0,0" VerticalAlignment="Top" Height="23"/>
+        <Image Stretch="UniformToFill" x:Name="image" HorizontalAlignment="Left" Height="84" Margin="9,-10,0,0" VerticalAlignment="Top" Width="100" Source="logoappli.png"/>
+        <TextBox Text="{Binding ImmatriculationVoiture, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="textBox6" HorizontalAlignment="Left" Height="23" Margin="220,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1" FontWeight="Bold"/>
+        <TextBox Text="{Binding PrixVoiture, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="textBox8" HorizontalAlignment="Left" Height="23" Margin="220,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1" FontWeight="Bold"/>
+        <TextBox Text="{Binding ArgusVoiture, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="textBox9" HorizontalAlignment="Left" Height="23" Margin="220,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1" FontWeight="Bold"/>
+        <Label x:Name="label6" Content="Immat" HorizontalAlignment="Left" Margin="171,79,0,0" VerticalAlignment="Top" Height="23" RenderTransformOrigin="0.578,-0.099" Grid.Column="1"/>
+        <Label x:Name="label7" Content="Année &#xD;&#xA;fabrication" HorizontalAlignment="Left" Margin="170,144,0,0" VerticalAlignment="Top" Height="23" Width="50" RenderTransformOrigin="0.767,0.391" Grid.Column="1"/>
+        <Label x:Name="label8" Content="Prix" HorizontalAlignment="Left" Margin="179,209,0,0" VerticalAlignment="Top" Height="23" RenderTransformOrigin="0.887,0.627" Grid.Column="1"/>
+        <Label x:Name="label9" Content="Côte Argus" HorizontalAlignment="Left" Margin="146,273,0,0" VerticalAlignment="Top" Height="34" Grid.Column="1"/>
+        <Label x:Name="label10" Content="Transmission" HorizontalAlignment="Left" Margin="134,339,0,0" VerticalAlignment="Top" Width="81" Height="23" RenderTransformOrigin="-0.165,0.484" Grid.Column="1"/>
+        <Button x:Name="button" Content="Ajouter" HorizontalAlignment="Left" Margin="87,479,0,0" VerticalAlignment="Top" Width="75" Command="{Binding BoutonAjouter}" RenderTransformOrigin="-0.073,0.425" Grid.ColumnSpan="2"/>
+        <Button x:Name="button1" Content="Annuler" HorizontalAlignment="Left" Margin="265,484,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.96,0.2" Grid.Column="1"/>
+        <ComboBox SelectedIndex="{Binding SelectedIndexMarque, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="87,79,0,0" VerticalAlignment="Top" Width="120" Height="22" Grid.ColumnSpan="2" FontWeight="Bold">
+            <ComboBoxItem Content="Audi" IsSelected="True"></ComboBoxItem>
+            <ComboBoxItem Content="BMW"></ComboBoxItem>
+            <ComboBoxItem Content="Citroën"></ComboBoxItem>
+            <ComboBoxItem Content="DS"></ComboBoxItem>
+            <ComboBoxItem Content="Mercedes"></ComboBoxItem>
+            <ComboBoxItem Content="Peugeot"></ComboBoxItem>
+            <ComboBoxItem Content="Renault"></ComboBoxItem>
+            <ComboBoxItem Content="Tesla"></ComboBoxItem>
+            <ComboBoxItem Content="Toyota"></ComboBoxItem>
+            <ComboBoxItem Content="VolksWagen"></ComboBoxItem>
+        </ComboBox>
+        <ComboBox ItemsSource="{Binding ModelVoiture, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="NomModele" SelectedValuePath="IdModel" SelectedValue="{Binding SelectedValueModel, Mode=TwoWay}" HorizontalAlignment="Left" Margin="87,144,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding AnneeVoiture}" DisplayMemberPath="NomAnnee" SelectedValuePath="IdAnnee" SelectedValue="{Binding SelectedValueAnnee}" HorizontalAlignment="Left" Margin="220,144,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding PuissanceVoiture}" DisplayMemberPath="NomPuissance" SelectedValuePath="IdPuissance" SelectedValue="{Binding SelectedValuePuissance}" HorizontalAlignment="Left" Margin="87,209,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding PlacesVoiture}" DisplayMemberPath="NomPlaces" SelectedValuePath="IdPlaces" SelectedValue="{Binding SelectedValuePlaces}" HorizontalAlignment="Left" Margin="87,274,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.519,0.773" Grid.ColumnSpan="2" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding CouleurVoiture}" DisplayMemberPath="NomCouleur" SelectedValuePath="IdCouleur" SelectedValue="{Binding SelectedValueCouleur}" HorizontalAlignment="Left" Margin="87,339,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding CarburantVoiture}" DisplayMemberPath="NomCarburant" SelectedValuePath="IdCarburant" SelectedValue="{Binding SelectedValueCarburant}" HorizontalAlignment="Left" Margin="87,407,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" FontWeight="Bold"/>
+        <ComboBox ItemsSource="{Binding TransmissionVoiture}" DisplayMemberPath="NomTransmission" SelectedValuePath="IdTransmission" SelectedValue="{Binding SelectedValueTransmission}" HorizontalAlignment="Left" Margin="220,339,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1" FontWeight="Bold"/>
+        <Label Content="Catégorie" HorizontalAlignment="Left" Margin="151,411,0,0" VerticalAlignment="Top" Width="64" RenderTransformOrigin="0.484,0.423" Grid.Column="1"/>
+        <ComboBox ItemsSource="{Binding CategorieVoiture}" DisplayMemberPath="NomCategorie" SelectedValuePath="IdCategorie" SelectedValue="{Binding SelectedValueCategorie}" HorizontalAlignment="Left" Margin="220,408,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1" FontWeight="Bold"/>
+        <Button Command="{Binding BoutonSupprimerOptions}" HorizontalAlignment="Left" Margin="394,242,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.145,2.118" Height="40" Grid.Column="1">
+            <StackPanel>
+                <Image Source="C:\Users\59013-72-07\Downloads\7184-Tatice-Flechehaut.png" Height="40" Width="40" RenderTransformOrigin="0.375,1.375"/>
+            </StackPanel>
+        </Button>
+        <Button Command="{Binding BoutonAjoutOptions}" HorizontalAlignment="Left" Margin="493,242,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.145,2.118" Height="40" Grid.Column="1">
+            <StackPanel>
+                <Image Source="C:\Users\59013-72-07\Downloads\7197-Tatice-Flechebas.png" Height="40" Width="39" Margin="0,-2,0,0"/>
+            </StackPanel>
+        </Button>
+        <ListBox SelectedIndex="{Binding SelectedIndexOptionsDisponibles, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" ItemsSource="{Binding OptionsVoiture, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="NomOptions" SelectedValuePath="IdOptions" SelectedValue="{Binding SelectedValueOptions, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" HorizontalAlignment="Left" Height="127" Margin="394,103,0,0" VerticalAlignment="Top" Width="139" FontWeight="Bold"/>
+        <Label Content="Options disponibles" Grid.Column="1" HorizontalAlignment="Left" Margin="389,75,0,0" VerticalAlignment="Top" Width="139"/>
+        <ListBox SelectedIndex="{Binding SelectedIndexOptionsAjouter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" ItemsSource="{Binding OptionsVoitureAjouter, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="NomOptions" SelectedValuePath="IdOptions" SelectedValue="{Binding SelectedValueOptionsAjouter}" Grid.Column="1" HorizontalAlignment="Left" Height="127" Margin="394,303,0,0" VerticalAlignment="Top" Width="139" FontWeight="Bold"/>
+        <Label Content="Options à ajouter" Grid.Column="1" HorizontalAlignment="Left" Margin="389,280,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,0.462" Width="137"/>
+        <Label Content="{Binding InfoErreurAjout, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="87,446,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="555"/>
+        <Button IsEnabled="{Binding IsEnabledBoutonCacheCloseWindow}" Name="BoutonCacheCloseWindow" Command="{Binding CloseWindowCommand}" CommandParameter="{Binding ElementName=WindowAjouter}" Content="Button" HorizontalAlignment="Left" Margin="87,479,0,0" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2" Opacity="0.03"/>
+
+    </Grid>
+</Window>

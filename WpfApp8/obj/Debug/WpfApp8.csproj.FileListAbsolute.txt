@@ -1,0 +1,400 @@
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\MySql.Data.dll
+c:\users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\source\repos\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+D:\Filrouge\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+D:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+F:\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Connexion.g.cs
+C:\Users\59013-72-07\Desktop\filrouge\WpfApp8\WpfApp8\obj\Debug\View\Connexion.baml
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\Connexion.g.cs
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\Connexion.baml
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.cache
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CopyComplete
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+D:\Developpement\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\Connexion.g.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\Connexion.baml
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.cache
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CopyComplete
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+D:\Developpement\TestmodifWpfApp8\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+D:\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+D:\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+D:\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+D:\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+D:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+D:\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+D:\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+D:\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+D:\WpfApp8\WpfApp8\obj\Debug\View\Connexion.g.cs
+D:\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+D:\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+D:\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+D:\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+D:\WpfApp8\WpfApp8\obj\Debug\View\Connexion.baml
+D:\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+D:\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.cache
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CopyComplete
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+D:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+G:\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+G:\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+G:\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+G:\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+G:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+G:\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+G:\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+G:\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+G:\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+G:\WpfApp8\WpfApp8\obj\Debug\View\Connexion.g.cs
+G:\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+G:\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+G:\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+G:\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+G:\WpfApp8\WpfApp8\obj\Debug\View\Connexion.baml
+G:\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+G:\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.cache
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CopyComplete
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+G:\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\View\Ajouter.xaml.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\MySql.Data.xml
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojAssemblyReference.cache
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.baml
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\Ajouter.g.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\Connexion.g.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.g.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\Modifier.g.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\Connexion.baml
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\MainWindow.baml
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\View\Modifier.baml
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.cache
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CoreCompileInputs.cache
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.CopyComplete
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+C:\Users\MBENAISSA\Desktop\sauvegarde usb\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
